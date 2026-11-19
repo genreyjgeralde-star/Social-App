@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Social App",
+    "slug": "social-app",
+    "version": "1.0.0",
+    "scheme": "socialapp",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0d1117",
+    "newArchEnabled": true,
+    "ios": { "supportsTablet": true },
+    "android": { "backgroundColor": "#0d1117" },
+    "web": { "bundler": "metro" },
+    "plugins": ["expo-router"]
+  }
+}

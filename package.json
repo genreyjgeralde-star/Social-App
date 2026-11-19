@@ -1,0 +1,31 @@
+{
+  "name": "social-app",
+  "version": "1.0.0",
+  "private": true,
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^14.1.0",
+    "expo": "~58.0.0",
+    "expo-constants": "~58.0.0",
+    "expo-linking": "~58.0.0",
+    "expo-router": "~58.0.0",
+    "expo-status-bar": "~58.0.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-native": "0.88.0",
+    "react-native-safe-area-context": "~5.11.0",
+    "react-native-screens": "~4.30.0",
+    "react-native-web": "~0.21.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@types/react": "~19.3.0",
+    "typescript": "~5.8.3"
+  }
+}
